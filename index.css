@@ -3,6 +3,11 @@ body {
   background-color: #eaeaea;
 }
 
+jumbotron {
+  background-color: #eaeaea;
+  opacity: 30%;
+}
+
 p {
   font-family: "Raleway", monospace;
   font-size: 14px;

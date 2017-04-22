@@ -1,10 +1,11 @@
 body {
   background-image: url("living.jpg");
+  opacity: 0.5;
   background-color: #eaeaea;
 }
 
 jumbotron {
-  background-color: rgba (234, 234, 234, 0.5);
+  background-color: rgba (234, 234, 234, 0.4);
   width: 100%;
   display: block;
 }

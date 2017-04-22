@@ -4,13 +4,11 @@ body {
 }
 
 jumbotron {
-  background-color: #eaeaea;
-  opacity: 30%;
+  background-color: rgba (234, 234, 234, 0.5);
 }
 
 .contact {
-  background-color: #eaeaea;
-  opacity: 30%;
+  background-color: rgba (234, 234, 234, 0.5);
 }
 
 p {

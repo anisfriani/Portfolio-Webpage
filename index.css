@@ -1,0 +1,58 @@
+body {
+  background-image: url("living.jpg");
+  background-color: #eaeaea;
+}
+
+p {
+  font-family: "Raleway", monospace;
+  font-size: 14px;
+  line-height: 2em;
+}
+
+.anis {
+  font-family: "Spirax", fantasy;
+  font-size: 58px;
+  text-shadow: 6px 6px 4px #aaa;
+}
+.port {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 28px;
+}
+
+.image {
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+.about {
+  text-align:center;
+  font-size:14px;
+  line-hight: 1.5em;
+}
+
+footer {
+   text-align: center;
+   font-size: 12px;
+   line-height: 1.5em;
+   background-color: #222222;
+   width: 100%;
+   bottom: 0;
+        }
+.fa {
+    padding: 10px;
+    font-size: 10px;
+    text-align: center;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    color: #222222;
+}
+.fa-twitter {
+    color: #222222;
+}
+.fa-github {
+  color: #222222;
+}

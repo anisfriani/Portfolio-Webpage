@@ -8,6 +8,11 @@ jumbotron {
   opacity: 30%;
 }
 
+.contact {
+  background-color: #eaeaea;
+  opacity: 30%;
+}
+
 p {
   font-family: "Raleway", monospace;
   font-size: 14px;
@@ -33,7 +38,7 @@ p {
 .about {
   text-align:center;
   font-size:14px;
-  line-hight: 1.5em;
+  line-height: 1.5em;
 }
 
 footer {

@@ -1,6 +1,6 @@
 body {
   background-image: url("living.jpg");
-  opacity: 0.5;
+  background-repeat: no-repeat;
   background-color: #eaeaea;
 }
 

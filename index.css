@@ -11,6 +11,7 @@ jumbotron {
   background-color: rgba (234, 234, 234, 0.1);
   width: 100%;
   display: block;
+  color: inherit;
 }
 
 .contact {

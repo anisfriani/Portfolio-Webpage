@@ -1,11 +1,14 @@
 body {
   background-image: url("living.jpg");
   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
   background-color: #eaeaea;
 }
 
 jumbotron {
-  background-color: rgba (234, 234, 234, 0.4);
+  background-color: rgba (234, 234, 234, 0.1);
   width: 100%;
   display: block;
 }
@@ -38,23 +41,12 @@ p {
   margin-bottom: 10px;
   border: 1px solid black;
 }
+
 .about {
   text-align:center;
   font-size:14px;
   line-height: 1.5em;
 }
-
-footer {
-   position: absolute;
-   text-align: center;
-   font-size: 12px;
-   line-height: 1.5em;
-   background-color: #222222;
-   width: 100%;
-   left: 0;
-   bottom: 0;
-   overflow:hidden;
-        }
 
 .fa {
     padding: 10px;

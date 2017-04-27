@@ -50,10 +50,8 @@ footer {
    font-size: 12px;
    line-height: 1.5em;
    background-color: #222222;
-   width: 100%;
-   bottom: 0;
-   position: absolute;
         }
+
 .fa {
     padding: 10px;
     font-size: 10px;

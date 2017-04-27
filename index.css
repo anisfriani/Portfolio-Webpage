@@ -46,13 +46,15 @@ p {
 }
 
 footer {
-   position: fixed;
+   position: absolute;
    text-align: center;
    font-size: 12px;
    line-height: 1.5em;
    background-color: #222222;
    width: 100%;
-   bottom: 0px;
+   left: 0;
+   bottom: 0;
+   overflow:hidden;
         }
 
 .fa {
